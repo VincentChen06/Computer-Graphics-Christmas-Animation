@@ -1,0 +1,101 @@
+﻿  Main.c
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(362,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(365,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,60): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,81): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,102): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,123): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(368,144): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(351,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(352,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(353,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(354,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(602,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(603,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(604,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(608,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(616,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(616,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(617,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(617,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(618,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(618,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(651,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(652,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(653,38): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(658,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(658,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(659,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(659,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(660,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(660,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(693,46): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(697,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(705,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(705,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(706,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(706,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(707,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(707,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(743,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(743,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(744,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(744,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(745,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(745,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(752,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(752,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(753,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(753,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(754,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(754,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(761,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(761,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(762,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(762,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(763,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(763,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(808,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(809,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(810,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(813,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(814,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(817,45): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(818,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(824,45): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(824,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(825,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(825,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(826,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(826,57): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(580,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(607,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(609,53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(629,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(671,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(696,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(698,53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(717,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\Midterm\Main.c(849,16): warning C4026: function declared with formal parameter list
+  Midterm.vcxproj -> C:\Users\Sengo\OneDrive\Desktop\CISC 3620\Midterm\x64\Debug\Midterm.exe
